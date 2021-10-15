@@ -9,6 +9,8 @@
 <body>
 	<h1>Eclipse GitHub 연동 테스트</h1>
 	<button onclick="location.href='test'">눌러주세요</button>
+  <button onclick="location.href='menu1'">memu1</button>
 	<button onclick="location.href='menu2'">Menu2</button>
+	
 </body>
 </html>
